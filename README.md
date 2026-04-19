@@ -1,0 +1,1 @@
+New project in The Odin Project. I imagine we will be using HTML, CSS, and hopefully JavaScript at some point. Currently, I've had some experience getting familiar with Git, Github, HTML and a bit of CSS. I hope to expand my knowledge with this project.
